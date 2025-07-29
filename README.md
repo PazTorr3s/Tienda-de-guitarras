@@ -16,7 +16,7 @@ CSS
 1. Clonar el repositorio
 
 ```bash
-  git clone https://github.com/PazTorr3s/Memorice.git
+  git clone https://github.com/PazTorr3s/Venta-de-cursos.git
 ```
 
 2. Entrar al repositorio
