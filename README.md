@@ -22,7 +22,7 @@ CSS
 2. Entrar al repositorio
 
 ```bash
-  cd Memorice
+  cd Venta-de-cursos
 ```
 
 3. Abrir el proyecto con el editor de codigo (VSCode)
